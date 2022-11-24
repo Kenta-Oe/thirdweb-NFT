@@ -38,3 +38,4 @@ Open http://localhost:3000 with your browser to see the result.
 
 https://hanzochang.com/articles/10
 # thirdweb-NFT
+# Mysite
